@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoFIT__S.iml" filepath="$PROJECT_DIR$/.idea/modules/GoFIT__S.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GoFIT__S.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GoFIT__S.app.iml" />
+    </modules>
+  </component>
+</project>
